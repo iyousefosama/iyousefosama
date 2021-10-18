@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iiBlackwolf
 - 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Html/Python
-- 💞️ I’m looking to collaborate on Discord server/Bot
+- 🌱 I’m currently learning Html, css/Javascript
+- 💞️ I’m looking to collaborate on Discord server/Discord Client
 - 📫 How to reach me WOLF#1045
 
 <!---
