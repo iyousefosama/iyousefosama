@@ -1,6 +1,6 @@
 # Hello, there
 
-<h1 align="center"> <img src='https://cdn.discordapp.com/avatars/724580315481243668/c5ff2d333a2a6b4ffdc33b0882081533.png?v=1' height='50'> WOLF</h1>
+<h1 align="center"> <img src='https://cdn.discordapp.com/avatars/724580315481243668/c5ff2d333a2a6b4ffdc33b0882081533.png?v=1' height='25' padding='50'> WOLF</h1>
 
 <p align="center"> A Discord client developer </p>
 
