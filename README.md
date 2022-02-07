@@ -1,6 +1,6 @@
 # Hello, there
 
-<h1 align="center"> <img src='https://cdn.discordapp.com/avatars/821655420410003497/9633a398fbdb33906862000c39d813cd.png?v=1' height='20'> Wolfy</h1>
+<h1 align="center"> <img src='https://cdn.discordapp.com/avatars/821655420410003497/9633a398fbdb33906862000c39d813cd.png?v=1' height='45'> Wolfy</h1>
 
 <p align="center"> Cool discord bot developed by WOLF </p>
 
