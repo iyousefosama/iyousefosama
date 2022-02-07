@@ -1,5 +1,7 @@
 # Hello, there
 
+https://forthebadge.com/images/badges/made-with-javascript.svg
+
 - 👋 Hi, I’m @iiBlackwolf
 - 👀 I’m interested in Node.js
 - 🌱 I’m currently learning Html, css/Javascript
