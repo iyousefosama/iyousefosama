@@ -1,6 +1,8 @@
 # Hello, there
 
-https://forthebadge.com/images/badges/made-with-javascript.svg
+<p align="center">
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>
+</p>
 
 - 👋 Hi, I’m @iiBlackwolf
 - 👀 I’m interested in Node.js
