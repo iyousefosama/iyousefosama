@@ -1,14 +1,18 @@
-### Hello, there
+# Hello, there
 
 <p align="center">
-    [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </p>
+
+---
 
 - 👋 Hi, I’m Joe you can call me WOLF
 - 👀 I’m interested in Node.js
 - 🌱 I’m currently learning Html, css/Javascript
 - 💞️ I’m looking to collaborate on Discord server/Discord Client
 - 📫 How to reach me WOLF#8712
+
+---
 
 <!---
 iiBlackwolf/iiBlackwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
