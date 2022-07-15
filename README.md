@@ -14,7 +14,7 @@
 - 👀 I’m interested in Discord bots, game development
 - 🌱 I’m currently learning C#, python
 - 💞️ I’m looking to collaborate on Discord server/Discord Client
-- 📫 How to reach me WOLF#8712
+- 📫 How to reach me WOLF#1000
 
 ---
 
