@@ -8,7 +8,7 @@
    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </p>
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiBlackwolf)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiBlackwolf&hide=contribs,prs)
 
 ---
 
