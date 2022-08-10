@@ -7,7 +7,7 @@
 <p align="center">
    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </p>
----
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiBlackwolf&hide=contribs,prs)
 
 ---
