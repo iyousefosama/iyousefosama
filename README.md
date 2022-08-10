@@ -8,7 +8,8 @@
    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </p>
 <br>
-(https://github-readme-stats.vercel.app/api?username=iiBlackwolf&hide=contribs,prs)[Anurag's GitHub stats]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiBlackwolf)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
