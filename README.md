@@ -1,4 +1,4 @@
-# Hello, there
+## Hello, there
 
 <h1 align="center">WOLF</h1>
 
@@ -22,7 +22,7 @@
 - 👀 I’m interested in Discord bots, game development
 - 🌱 I’m currently learning C#, python
 - 🤝 I’m looking to collaborate on Discord server/Discord Client
-- 📫 How to reach me WOLF#1000
+- 📫 How to reach me WOLF#8258
 
 ---
 
