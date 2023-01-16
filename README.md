@@ -13,13 +13,15 @@
 # Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiBlackwolf&show_icons=true&theme=radical)
+<br><br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ---
 
 - 👋 Hi, I’m Joe you can call me WOLF
 - 👀 I’m interested in Discord bots, game development
 - 🌱 I’m currently learning C#, python
-- 💞️ I’m looking to collaborate on Discord server/Discord Client
+- 🤝 I’m looking to collaborate on Discord server/Discord Client
 - 📫 How to reach me WOLF#1000
 
 ---
