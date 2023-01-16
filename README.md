@@ -3,10 +3,11 @@
 <h1 align="center">WOLF</h1>
 
 <p align="center"> A Discord client developer </p>
-
+<center>
 <p align="center">
-             <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </p>
+  </center>
 <br>
 
 ---
