@@ -1,5 +1,3 @@
-## Hello, there
-
 <h1 align="center">Yousef osama(WOLF)</h1>
 <p align="center">Experienced Javascript, Web and device applications, with a focus on python Developer with Node.js Skills.</p>
 <p align="center">
