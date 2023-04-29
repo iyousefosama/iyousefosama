@@ -1,5 +1,5 @@
 <h1 align="center">Yousef osama(WOLF)</h1>
-<p align="center">Experienced Javascript, Web and device applications, with a focus on python Developer with Node.js Skills.</p>
+<p align="center">Experienced Javascript, Web and device applications, with a focus on python with Node.js Skills Developer.</p>
 <p align="center">
 <a href="https://github.com/iiBlackwolf/iiBlackwolf">
    <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
