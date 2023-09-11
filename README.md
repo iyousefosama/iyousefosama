@@ -18,7 +18,7 @@ I spend most of my time developing software and experimenting with new ideas. Cu
 As I mentioned earlier, my primary interest lies in node.js projects, games projects and web apps. However, I'm also passionate about exploring new technologies, reading about new advancements in the field of computer science, and participating in tech-related discussions.
 
 ## How can you reach me?
-If you have any questions or would like to collaborate on a project, feel free to reach out to me on Discord at `WOLF#5414`. I'm always happy to chat with fellow developers and help out in any way I can.
+If you have any questions or would like to collaborate on a project, feel free to reach out to me on Discord at `yousefosama1`. I'm always happy to chat with fellow developers and help out in any way I can.
 
 ---
 
