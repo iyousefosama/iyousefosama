@@ -25,6 +25,6 @@ If you have any questions or would like to collaborate on a project, feel free t
 # Github Stats
 
 <div style="display: flex; margin-bottom: 20px;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iiBlackwolf&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iyousefosama&show_icons=true&theme=radical" alt="WOLF's GitHub stats" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
 </div>
